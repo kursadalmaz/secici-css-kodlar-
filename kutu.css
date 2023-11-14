@@ -1,0 +1,12 @@
+/*kutu.html için yazıldı*/
+
+        
+h1{
+    border-style: solid dashed dashed double;
+    border-width: 10px 20px 30px 40px;
+    border-color: red blue yellow black;
+    width: 200px;
+    height: 80px;
+    padding: 0px 50px 10px 20px;
+    margin: 30px 10px 0px 10px;
+}

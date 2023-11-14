@@ -1,0 +1,83 @@
+
+/* sayfa.html için yazılmıştır*/
+#sayfa{
+    border-style:solid;
+    width: 300px;
+    margin: auto;
+    background-color: chocolate;
+    }
+
+    header{
+        border-style: dotted;
+        border-color: blue;
+        background-color: aqua;
+        width: 280px;
+        margin: auto;
+        height: 50px;
+    }
+
+    nav{
+        border-style: dashed;
+        border-color: darkgreen;
+        background-color: yellow;
+        width: 280px;
+        margin: auto;
+        height: 30px;
+    }
+    article{
+        border-style: double;
+        border-color: red;
+        background-color: cadetblue;
+        width: 280px;
+        margin: auto;
+        min-height: 150px;
+    }
+    footer{
+        border-style: solid;
+        border-color: blue;
+        background-color: chartreuse;
+        width: 280px;
+        margin: auto;
+        height: 50px;
+    }
+
+    
+    /*par.html için yazıldı*/
+    p{
+        /*Paragraf Özellikler*/
+       text-indent: 40px;
+       text-align: left;
+       line-height: -15px;
+       /*Metin Özellikleri*/
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+       color: rebeccapurple;
+       font-size: 14px;
+       font-weight: bolder;
+       font-style: italic;
+       font-variant: normal;
+       text-transform: uppercase;
+       text-decoration: none;
+       letter-spacing: 1px;
+       word-spacing: 5px;
+    }
+    .metin{
+        color: violet;
+        font-size: 10px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        background-color: blue;
+
+    }
+
+    /*konum.html için yazıldı*/
+    div{
+        border-color: indianred;
+        border-style: solid;
+    }
+    
+    #buyuk{
+        width: 200px;
+        height: 100px;
+        background-color: khaki;
+        z-index: 1;
+        overflow: auto;
+        }

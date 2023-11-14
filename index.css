@@ -1,0 +1,36 @@
+/*index.html için yazıldı*/
+p{
+    color: red;
+}
+h1{
+    color: blue;
+}
+
+#ilk{
+    color: aqua;
+}
+
+#ikinci{
+    color: blueviolet;
+}
+
+.mavi{
+    color: blue;
+}
+.yesil{
+    color: green;
+}
+.kırmızı{
+    color: cadetblue;
+}
+/*form.html için*/
+.formeleman{
+    color: blue;
+        background-color: green;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: bolder;
+        border-color: black;
+        border-width: 1px;
+        margin: 10px;
+        padding: 10px;
+   }

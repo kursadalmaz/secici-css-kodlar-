@@ -1,0 +1,130 @@
+
+    #sayfa{
+    border-style: solid;
+    border-color: yellowgreen;
+    border-width: 2px;
+    width: 400px;
+    min-height: 400px;
+    margin: auto;
+    }
+    header{
+        border-style: dotted;
+        border-color: blue;
+        width: 360px;
+        height: 50px;
+        margin: auto;
+        background-color: bisque;
+    }
+    nav{
+        border-style: dotted;
+        border-color: blueviolet;
+        width: 360px;
+        height: 30px;
+        margin: auto;
+        background-color: red;
+    }
+    article{
+        border-style: solid;
+        border-color: black;
+        width: 200px;
+        min-height: 200px;
+        margin: auto;
+        background-color: green;
+        float: left;
+        position: relative;
+        left: 17px;
+    }
+    aside{
+        border-style: solid;
+        border-color: black;
+        width: 160px;
+        min-height: 200px;
+        margin: auto;
+        background-color: aqua;
+        float: right;
+        position: relative;
+        right: 17px;
+     }
+    footer{
+        border-style: double;
+        border-color: red;
+        width: 360px;
+        height: 30px;
+        margin: auto;
+        background-color: seagreen;
+        float: left;
+        position: relative;
+        left: 17px;
+    }
+
+    /*liste.html için yazıldı.*/
+    ul{
+        list-style-type:square;
+        border-style: dashed;
+        
+
+    }
+    li{
+        font-family: Arial, Helvetica, sans-serif;
+        color: blue;
+        font-size: 16px;
+        font-weight: bold;
+        
+        
+        
+    }
+    /*tablo.html için yazılmıştır.*/
+     table{
+            color: blue;
+            background-color: blanchedalmond;
+            border-collapse: collapse;
+            border-width: 5px;
+            
+
+        }
+        th{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 16px;
+            font-weight: border;
+            color: red;
+            background-color: gray;
+            padding: 10px;
+            margin: 10px;
+
+        }
+        td{
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            font-size: 12px;
+            font-style: oblique;
+            background-color: deeppink;
+            text-align: center;
+            padding: 5px;
+            height: 30px;
+            vertical-align: middle;
+            border-style: dotted;
+            
+
+        }
+        /*ardalan.html için yazılmıştır*/
+        p{
+        border-style: solid;
+        width: 200px;
+        height: 100px;
+        background-color: yellowgreen;
+        text-align: center;
+        padding-right: 40px;
+        
+        }
+     
+
+        /* golge.html için yazılmıştır*/
+        .paragraph{
+            border-style: solid;
+            border-width: 10px;
+            border-color: red;
+            border-radius: 30px;
+            background-color: grey;
+            margin: 50px;
+            padding: 20px;
+            box-shadow:10px 10px 20px yellow;
+        }

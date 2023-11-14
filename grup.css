@@ -1,0 +1,21 @@
+/*grup.html için yazıldı*/
+h1,h2{
+    color: brown;
+}
+p strong{
+    color:black;
+}
+p i{
+    color: blue;
+}
+p u{
+    color: hotpink;
+}
+p #mi{
+    color: blue;
+    font-style: italic;
+}
+p.egik{
+    font-style: italic;
+    color: pink;
+}
